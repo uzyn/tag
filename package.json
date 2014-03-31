@@ -2,12 +2,10 @@
   "name": "tag",
   "main": "./lib/tag",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/tag",
+  "description": "Sublime Text-inspired Tag menu and functions for Atom. ⌥⌘. to Close Tag.",
+  "repository": "https://github.com/uzyn/tag",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {
   }
 }
