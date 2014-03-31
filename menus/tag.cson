@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Close Tag': 'tag:closeTag'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Tag'
+      'submenu': [
+        { 'label': 'Close Tag', 'command': 'tag:closeTag' }
+      ]
+    ]
+  }
+]
