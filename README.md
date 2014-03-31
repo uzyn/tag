@@ -18,10 +18,12 @@ Or search for `tag` under `Atom Preferences > Install Packages`.
 Features
 ---
 - Close Tag (⌥⌘.)
+- Close tag upon typing of `</`
+  - Toggle-able at Atom Preference
+  - When turned on, this feature is only triggered when grammar's name contains `HTML` or `XML`.
 
 To do
 ---
-- Close tag upon typing of `</`
 - Expand Selection to Tag (⇧⌘A)
 - Customization options for single tags
 - Tests

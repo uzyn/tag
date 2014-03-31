@@ -12,9 +12,6 @@
     "sublime"
   ],
   "repository": "https://github.com/uzyn/tag",
-  "activationEvents": [
-    "tag:close-tag"
-  ],
   "author": "U-Zyn Chua <chua@uzyn.com>",
   "license": "MIT",
   "engines": {
