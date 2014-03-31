@@ -6,6 +6,15 @@ Supports HTML / XML tags.
 
 ![Tag in action](http://i.imgur.com/yKKZfxA.gif)
 
+Install
+---
+```
+apm install tag
+```
+
+Or search for `tag` under `Atom Preferences > Install Packages`.
+
+
 Features
 ---
 - Close Tag (⌥⌘.)
