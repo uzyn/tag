@@ -1,7 +1,5 @@
-# See https://atom.io/docs/latest/creating-a-package#menus for more details
 'context-menu':
-  '.overlayer':
-      'Close Tag': 'tag:close-tag'
+  'atom-workspace': [ {label: 'Close Tag', command: 'tag:close-tag'} ]
 
 'menu': [
   {
