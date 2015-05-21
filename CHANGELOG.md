@@ -1,3 +1,6 @@
+## 0.3.0
+- Updated package to be compatible with Atom 1.0 API.
+
 ## 0.2.1
 - Ignore `<?` and `<%` as tags as thus should not be closed as `</?php` for example.
 
