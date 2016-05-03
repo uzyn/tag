@@ -1,7 +1,7 @@
 {
   "name": "tag",
   "main": "./lib/tag",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Sublime Text-inspired HTML & XML Tag menu and functions. Close Tag (⌥⌘.)",
   "keywords": [
     "tag",
