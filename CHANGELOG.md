@@ -1,3 +1,6 @@
+## 0.4.0
+- Package now checks for grammar scope instead of grammar name. [#20](https://github.com/uzyn/tag/pull/20) Thanks [@timkelty](https://github.com/timkelty)
+
 ## 0.3.0
 - Updated package to be compatible with Atom 1.0 API.
 

@@ -1,4 +1,4 @@
-Copyright (c) 2014 U-Zyn Chua <chua@uzyn.com>
+Copyright (c) U-Zyn Chua <chua@uzyn.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
